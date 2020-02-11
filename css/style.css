@@ -1,0 +1,11 @@
+@media screen {
+    * {
+        background: silver
+    }
+}
+
+#nav-bar {
+  position: fixed;
+  display: block;
+
+}
